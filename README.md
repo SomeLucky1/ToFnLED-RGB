@@ -1,2 +1,6 @@
 # ToFnLED-RGB
-A clone of the original ToFnLED board using the original RGB LED with a PCA9632 LED driver.
+ToF sensor + RGB LED
+
+![ToFnLED-RGBW_Sch](/Project/Exports/ToFnLED-RGB-Sch.png)
+![ToFnLED-RGBW_Top](/Project/Exports/ToFnLED-RGB-Top.png)
+![ToFnLED-RGBW_Bottom](/Project/Exports/ToFnLED-RGB-Bottom.png)
